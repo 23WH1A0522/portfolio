@@ -6,7 +6,7 @@ export const personalInfo = {
   title: "Third Year B.Tech Student | Web Developer | ML Enthusiast | DSA Proficient",
   shortBio: "Passionate about building intuitive web applications and exploring machine learning algorithms while maintaining a strong foundation in data structures and algorithms.",
   photo: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", // Replace with your photo URL
-  resume: "/path-to-your-resume.pdf", // Replace with your resume link
+  resume: "https://drive.google.com/file/d/1QwPfopF1J08UCUlGpMmD4_O2Ux2vVM86/view?usp=sharing", // Replace with your resume link
 };
 
 export const skillCategories: SkillCategory[] = [
